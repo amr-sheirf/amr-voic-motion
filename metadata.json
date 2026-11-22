@@ -1,0 +1,8 @@
+{
+  "name": "الدرس الصوتي — نموذج مساحة المستطيل",
+  "description": "منصة تحويل دروس الرياضيات إلى صوت واضح وتفاعلي مع شرح نموذج مساحة المستطيل للأستاذ عمرو شريف.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
